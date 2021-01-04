@@ -1,7 +1,8 @@
+///2 индивидуальное, 11 вариант
+
 #include <iostream>
 #include <fstream>
 #include <string>
-#include  <math.h>
 
 using namespace std;
 
