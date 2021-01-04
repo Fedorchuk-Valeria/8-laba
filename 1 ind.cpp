@@ -1,3 +1,5 @@
+///1 индивидуальное, 11 вариант
+
 #include <iostream>
 #include <stdio.h>
 #include <string>
